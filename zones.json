@@ -7607,5 +7607,16 @@
       "emulator",
       "nds"
     ]
+  },
+  {
+    "id": 842,
+    "name": "Plants vs. Zombies GOTY Edition",
+    "cover": "{COVER_URL}/842.png",
+    "url": "{HTML_URL}/842.html",  
+    "author": "PopCap Games",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "port"
+    ]
   }
 ]
