@@ -7618,5 +7618,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 843,
+    "name": "La Madriguera (Lazy Bear Game)",
+    "cover": "{COVER_URL}/843.png",
+    "url": "{HTML_URL}/843.html",  
+    "author": "camiloh488",
+    "authorLink": "https://camiloh488.itch.io/la-madriguera",
+    "special": [
+      "port"
+    ]
   }
 ]
