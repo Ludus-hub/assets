@@ -7637,5 +7637,16 @@
     "url": "{HTML_URL}/844.html",  
     "author": "RewindApp",
     "authorLink": "https://store.steampowered.com/app/730620/Hammer_2/"
+  },
+  {
+    "id": 845,
+    "name": "Swords and Sandals 2",
+    "cover": "{COVER_URL}/845.png",
+    "url": "{HTML_URL}/845.html",  
+    "author": "eGames",
+    "authorLink": "https://play.google.com/store/apps/details?id=air.com.game.whiskeybarrelstudios.swordsandsandals2&hl=en_US",
+    "special": [
+      "flash"
+    ]
   }
 ]
