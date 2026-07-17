@@ -6370,5 +6370,204 @@
       "emulator",
       "nds"
     ]
+   },
+  {
+    "id": 842,
+    "name": "2048",
+    "cover": "/pics/2048-n.webp",
+    "url": "/2048.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 843,
+    "name": "Among Us",
+    "cover": "/pics/AmongUs-n.webp",
+    "url": "/Among Us.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 844,
+    "name": "Basketball Stars",
+    "cover": "/pics/BasketballStars-n.webp",
+    "url": "/Basketball Stars.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 845,
+    "name": "Chrome Dino",
+    "cover": "/pics/DinosaurGame-n.webp",
+    "url": "/Chrome Dino.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 846,
+    "name": "Crossy Road",
+    "cover": "/pics/CrossyRoad-n.webp",
+    "url": "/Crossy Road.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 847,
+    "name": "Drive Mad",
+    "cover": "/pics/DriveMad-n.webp",
+    "url": "/Drive Mad.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 848,
+    "name": "Free Rider Jumps",
+    "cover": "/pics/Free-n.webp",
+    "url": "/Free Rider Jumps.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 849,
+    "name": "Mario",
+    "cover": "/pics/Mario-n.webp",
+    "url": "/Mario.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 850,
+    "name": "Monkey Mart",
+    "cover": "/pics/monkeymart-n.avif",
+    "url": "/Monkey Mart.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 851,
+    "name": "Neon Breakout",
+    "cover": "/pics/Breakout-n.webp",
+    "url": "/Neon Breakout.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 852,
+    "name": "Neon Gambit",
+    "cover": "/pics/Chess-n.webp",
+    "url": "/Neon Gambit.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 853,
+    "name": "Pac-Man",
+    "cover": "/pics/Pacman-n.webp",
+    "url": "/Pac-Man.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 854,
+    "name": "Slope",
+    "cover": "/pics/Slope-n.webp",
+    "url": "/Slope.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 855,
+    "name": "Space Invaders",
+    "cover": "/pics/SpaceInvaders-n.webp",
+    "url": "/Space Invaders.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 856,
+    "name": "Subway Surfers",
+    "cover": "/pics/SubwaySurfers-n.webp",
+    "url": "/Subway Surfers.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 857,
+    "name": "Wordle",
+    "cover": "/pics/Wordle-n.webp",
+    "url": "/Wordle.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 858,
+    "name": "Wrestle Bros",
+    "cover": "/pics/wrestle-n.webp",
+    "url": "/Wrestle Bros.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
+  },
+  {
+    "id": 859,
+    "name": "YoHoHo.io",
+    "cover": "/pics/yohoho-n.webp",
+    "url": "/YoHoHo.io.html",
+    "author": "Placeholder",
+    "authorLink": "#",
+    "special": [
+      "html5"
+    ]
   }
+]
 ]
